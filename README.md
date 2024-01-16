@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Logicalis**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Javascript, JAVA**
+- 💬 Ask me about **Python, Javascript**
 
 - 📫 How to reach me **igor050198@gmail.com**
 
